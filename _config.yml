@@ -1,2 +1,3 @@
 name: Colin Jemmott
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
