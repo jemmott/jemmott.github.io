@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Work
 
-You can use the [editor on GitHub](https://github.com/jemmott/jemmott.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Principle Data Scientist at [Seismic](https://seismic.com/) manage the AI/ML team.  You can read more about what I do on [Medium](https://medium.com/seismic-data-science/data-science-at-seismic-b4469c7cb6b0).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I also teach at UC San Diego as part of the Halıcıoğlu Data Science Institute. I designed a class that is super fun: [DSC 96: Perspectives in Data Science](https://sites.google.com/view/dsc96), which I like describing as "big picture plus stuff that fell between the cracks in other classes".  I have also taught a large intro lecture class: [DSC 10: Principles of Data Science](https://sites.google.com/view/dsc10).  On official evaluations (UCSD CAPE), 96% of students said they would "recommend the instructor" in my classes.
 
-### Markdown
+To me, data science is about deeply understanding the meaning of your data, analyzing it with honesty and creativity, and communicating results clearly. I am currently a Principal Data Scientist at a company called Seismic, where I get to ship cloud based machine learning, search, and visualization products to thousands of enterprise customers. It is extremely gratifying to use data and math to help so many people make better decisions. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You might like Seismic's Guiding Principles for Data Science or Books I Really Liked.
 
-```markdown
-Syntax highlighted code block
+Connect with me on LinkedIn and Twitter.
+Fun
 
-# Header 1
-## Header 2
-### Header 3
+I am really good at doing stuff that I don't know how to do. Yet.
 
-- Bulleted
-- List
+For example, with no real experience, my friends and I built a small cabin on Palomar Mountain.
 
-1. Numbered
-2. List
+Sometimes this approach to learning means I end up bleeding on things.  When that happens I document it on Twitter.
+Older Stuff
 
-**Bold** and _Italic_ and `Code` text
+I was very active with the San Diego Collaborative Arts Project for several years, culminating in being the president of the board of directors.  Here is an interview that I did that gives some details.
 
-[Link](url) and ![Image](src)
-```
+I used to do some "art" with the Dada Scientists.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I helped found a small intentional community called "The Normal House" and lived there for six years.  It was pretty great!
 
-### Jekyll Themes
+In addition to my dissertation, I also wrote a bunch of beer reviews.
+Contact
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jemmott/jemmott.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+My username is usually cjemmott, so you can find me there at seismic.com, gmail.com, ucsd.edu, etc.
