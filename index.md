@@ -1,6 +1,8 @@
+# DRAFT
+
 # Work
 
-I am a Principle Data Scientist at [Seismic](https://seismic.com/) manage the AI/ML team.  You can read more about what I do on [Medium](https://medium.com/seismic-data-science/data-science-at-seismic-b4469c7cb6b0).
+I am a Principle Data Scientist at [Seismic](https://seismic.com/), where I manage the AI/ML team.  You can read more about what I do on [Medium](https://medium.com/seismic-data-science/data-science-at-seismic-b4469c7cb6b0).
 
 I also teach at UC San Diego as part of the Halıcıoğlu Data Science Institute. I designed a class that is super fun: [DSC 96: Perspectives in Data Science](https://sites.google.com/view/dsc96), which I like describing as "big picture plus stuff that fell between the cracks in other classes".  I have also taught a large intro lecture class: [DSC 10: Principles of Data Science](https://sites.google.com/view/dsc10).  On official evaluations (UCSD CAPE), 96% of students said they would "recommend the instructor" in my classes.
 
