@@ -1,32 +1,45 @@
-# DRAFT
+# Data Science
 
-# Work
+I am a Principal Data Scientist at [Seismic](https://seismic.com/), where I manage the AI/ML team. 
 
-I am a Principle Data Scientist at [Seismic](https://seismic.com/), where I manage the AI/ML team.  You can read more about what I do on [Medium](https://medium.com/seismic-data-science/data-science-at-seismic-b4469c7cb6b0).
+To me, data science is about deeply understanding the meaning of your data, analyzing it with honesty and creativity, and communicating results clearly. It is extremely gratifying to use data and math to help so many people make better decisions. 
 
-I also teach at UC San Diego as part of the Halıcıoğlu Data Science Institute. I designed a class that is super fun: [DSC 96: Perspectives in Data Science](https://sites.google.com/view/dsc96), which I like describing as "big picture plus stuff that fell between the cracks in other classes".  I have also taught a large intro lecture class: [DSC 10: Principles of Data Science](https://sites.google.com/view/dsc10).  On official evaluations (UCSD CAPE), 96% of students said they would "recommend the instructor" in my classes.
+As the product owner for AI/ML I set the team direction, implement the execution plan, manage risk, and communicate status.  I am a generalist on the technical side - recent tasks have varied from recommenders to search learning to rank, and from visualizations to NLP.  I ship code to production and do math on paper. 
 
-To me, data science is about deeply understanding the meaning of your data, analyzing it with honesty and creativity, and communicating results clearly. I am currently a Principal Data Scientist at a company called Seismic, where I get to ship cloud based machine learning, search, and visualization products to thousands of enterprise customers. It is extremely gratifying to use data and math to help so many people make better decisions. 
+You can read more stuff I wrote about Seismic: [what the Seismic data science team does](https://medium.com/seismic-data-science/data-science-at-seismic-b4469c7cb6b0) and [Seismic's Guiding Principles for Data Science](https://medium.com/seismic-data-science/seismics-guiding-principles-for-data-science-957ef54e064e).
 
-You might like Seismic's Guiding Principles for Data Science or Books I Really Liked.
+# Teaching
 
-Connect with me on LinkedIn and Twitter.
-Fun
+I [teach at UC San Diego](https://ucsdnews.ucsd.edu/pressrelease/data_science_freshman_makes_his_first_cloud) as part of the Halıcıoğlu Data Science Institute. I designed a class that is super fun: [DSC 96: Perspectives in Data Science](https://sites.google.com/view/dsc96), which I like describing as "big picture plus stuff that fell between the cracks in other classes".  
+
+I have also taught a large intro lecture class: [DSC 10: Principles of Data Science](https://sites.google.com/view/dsc10).  
+
+On official evaluations (UCSD CAPE), 96% of students said they would "recommend the instructor" in my classes.
+
+# Reading
+
+I keep a list of [books I really liked](https://github.com/jemmott/books), which you might like too.  I am also pretty excited about the material on the [DSC96 reading list](https://sites.google.com/view/dsc96/reading).  Finally, I keep a [publication list](https://www.cjemmott.com/publications) in case you want to read academic stuff I wrote.
+
+# Fun
 
 I am really good at doing stuff that I don't know how to do. Yet.
 
-For example, with no real experience, my friends and I built a small cabin on Palomar Mountain.
+For example, with no real experience, my friends and I built [a small cabin on Palomar Mountain](https://www.normalhouse.com/palomar).
 
-Sometimes this approach to learning means I end up bleeding on things.  When that happens I document it on Twitter.
-Older Stuff
+Sometimes this approach to learning means I end up bleeding on things.  When that happens I [document it on Twitter](https://twitter.com/WhyIAmBleeding).
 
-I was very active with the San Diego Collaborative Arts Project for several years, culminating in being the president of the board of directors.  Here is an interview that I did that gives some details.
+# Older Stuff
 
-I used to do some "art" with the Dada Scientists.
+I was very active with the [San Diego Collaborative Arts Project](http://www.sdcap.org/) for several years, culminating in being the president of the board of directors.  [Here](http://sdvoyager.com/interview/meet-colin-jemmott-san-diego-collaborative-arts-project-mission-valley/) is an interview that I did that gives some details.
 
-I helped found a small intentional community called "The Normal House" and lived there for six years.  It was pretty great!
+I used to do some "art" with the [Dada Scientists](http://unfalsifiable.info/).
 
-In addition to my dissertation, I also wrote a bunch of beer reviews.
-Contact
+I helped found a small intentional community called "[The Normal House](https://www.normalhouse.com/)" and lived there for six years.  It was pretty great!
+
+In addition to [my dissertation](http://www.lulu.com/shop/colin-jemmott/model-based-recursive-bayesian-state-estimation-for-single-hydrophone-passive-sonar-localization/ebook/product-17362495.html?ppn=1), I also wrote [a bunch of beer reviews](http://www.lulu.com/shop/colin-jemmott/501-beers/paperback/product-15326831.html).
+
+# Contact
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/cjemmott/) and [Twitter](https://twitter.com/colin_jemmott).
 
 My username is usually cjemmott, so you can find me there at seismic.com, gmail.com, ucsd.edu, etc.
