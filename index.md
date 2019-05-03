@@ -1,16 +1,16 @@
 # Data Science
 
-### Day Job
+To me, data science is about deeply understanding the meaning of your data, analyzing it with honesty and creativity, and communicating results clearly. It is extremely gratifying to use data and math to help so many people make better decisions. 
+
+## Principal Data Scientist @ Seismic
 
 I am a Principal Data Scientist at [Seismic](https://seismic.com/), where I manage the AI/ML team. 
-
-To me, data science is about deeply understanding the meaning of your data, analyzing it with honesty and creativity, and communicating results clearly. It is extremely gratifying to use data and math to help so many people make better decisions. 
 
 As the product owner for AI/ML I set the team direction, implement the execution plan, manage risk, and communicate status.  I am a generalist on the technical side - recent tasks have varied from recommenders to search learning to rank, and from visualizations to NLP.  I ship code to production and do math on paper. 
 
 You can read more stuff I wrote about Seismic: [what the Seismic data science team does](https://medium.com/seismic-data-science/data-science-at-seismic-b4469c7cb6b0) and [Seismic's Guiding Principles for Data Science](https://medium.com/seismic-data-science/seismics-guiding-principles-for-data-science-957ef54e064e).
 
-### Night Job
+## Lecturer @ UC San Diego
 
 I [teach at UC San Diego](https://ucsdnews.ucsd.edu/pressrelease/data_science_freshman_makes_his_first_cloud) as part of the Halıcıoğlu Data Science Institute. I designed a class that is super fun: [DSC 96: Perspectives in Data Science](https://sites.google.com/view/dsc96), which I like describing as "big picture plus stuff that fell between the cracks in other classes".  
 
