@@ -1,5 +1,7 @@
 # Data Science
 
+### Day Job
+
 I am a Principal Data Scientist at [Seismic](https://seismic.com/), where I manage the AI/ML team. 
 
 To me, data science is about deeply understanding the meaning of your data, analyzing it with honesty and creativity, and communicating results clearly. It is extremely gratifying to use data and math to help so many people make better decisions. 
@@ -8,7 +10,7 @@ As the product owner for AI/ML I set the team direction, implement the execution
 
 You can read more stuff I wrote about Seismic: [what the Seismic data science team does](https://medium.com/seismic-data-science/data-science-at-seismic-b4469c7cb6b0) and [Seismic's Guiding Principles for Data Science](https://medium.com/seismic-data-science/seismics-guiding-principles-for-data-science-957ef54e064e).
 
-# Teaching
+### Night Job
 
 I [teach at UC San Diego](https://ucsdnews.ucsd.edu/pressrelease/data_science_freshman_makes_his_first_cloud) as part of the Halıcıoğlu Data Science Institute. I designed a class that is super fun: [DSC 96: Perspectives in Data Science](https://sites.google.com/view/dsc96), which I like describing as "big picture plus stuff that fell between the cracks in other classes".  
 
@@ -16,11 +18,13 @@ I have also taught a large intro lecture class: [DSC 10: Principles of Data Scie
 
 On official evaluations (UCSD CAPE), 96% of students said they would "recommend the instructor" in my classes.
 
-# Reading
-
-I keep a list of [books I really liked](https://github.com/jemmott/books), which you might like too.  I am also pretty excited about the material on the [DSC96 reading list](https://sites.google.com/view/dsc96/reading).  Finally, I keep a [publication list](https://www.cjemmott.com/publications) in case you want to read academic stuff I wrote.
-
 # Fun
+
+### Reading
+
+I keep a list of [books I really liked](https://github.com/jemmott/books), which you might like too.  I am also pretty excited about the material on the [DSC96 reading list](https://sites.google.com/view/dsc96/reading).
+
+### Learning
 
 I am really good at doing stuff that I don't know how to do. Yet.
 
@@ -28,7 +32,7 @@ For example, with no real experience, my friends and I built [a small cabin on P
 
 Sometimes this approach to learning means I end up bleeding on things.  When that happens I [document it on Twitter](https://twitter.com/WhyIAmBleeding).
 
-# Older Stuff
+### Older Stuff
 
 I was very active with the [San Diego Collaborative Arts Project](http://www.sdcap.org/) for several years, culminating in being the president of the board of directors.  [Here](http://sdvoyager.com/interview/meet-colin-jemmott-san-diego-collaborative-arts-project-mission-valley/) is an interview that I did that gives some details.
 
