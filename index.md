@@ -2,6 +2,8 @@
 
 To me, data science is about deeply understanding the meaning of your data, analyzing it with honesty and creativity, and communicating results clearly. It is extremely gratifying to use data and math to help so many people make better decisions. 
 
+I currently have two data science jobs:
+
 ## Principal Data Scientist @ Seismic
 
 I am a Principal Data Scientist at [Seismic](https://seismic.com/), where I manage the AI/ML team. 
