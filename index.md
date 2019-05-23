@@ -44,6 +44,8 @@ I helped found a small intentional community called "[The Normal House](https://
 
 In addition to [my dissertation](http://www.lulu.com/shop/colin-jemmott/model-based-recursive-bayesian-state-estimation-for-single-hydrophone-passive-sonar-localization/ebook/product-17362495.html?ppn=1), I also wrote [a bunch of beer reviews](http://www.lulu.com/shop/colin-jemmott/501-beers/paperback/product-15326831.html).
 
+I was Harvey Mudd's 2004 graduation speaker, and [recently found the video](https://youtu.be/PQDhr8k128I?t=783).
+
 # Contact
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/cjemmott/) and [Twitter](https://twitter.com/colin_jemmott).
