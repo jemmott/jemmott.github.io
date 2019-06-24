@@ -34,6 +34,10 @@ For example, with no real experience, my friends and I built [a small cabin on P
 
 Sometimes this approach to learning means I end up bleeding on things.  When that happens I [document it on Twitter](https://twitter.com/WhyIAmBleeding).
 
+### Glass House
+
+I live in the neighborhood of Del Dios, on the shores of Lake Hodges, in a house called the [Glass House](https://www.deldiosglasshouse.com/).  Most of my weekends are spent in the garden or the shop there.
+
 ### Older Stuff
 
 I was very active with the [San Diego Collaborative Arts Project](http://www.sdcap.org/) for several years, culminating in being the president of the board of directors.  [Here](http://sdvoyager.com/interview/meet-colin-jemmott-san-diego-collaborative-arts-project-mission-valley/) is an interview that I did that gives some details.
