@@ -4,9 +4,9 @@ To me, data science is about deeply understanding the meaning of your data, anal
 
 I currently have two data science jobs:
 
-## Principal Data Scientist @ Seismic
+## Senior Data Scientist @ Seismic
 
-I am a Principal Data Scientist at [Seismic](https://seismic.com/), where I manage the AI/ML team. 
+I am a Senior Data Scientist at [Seismic](https://seismic.com/), where I manage the AI/ML team. 
 
 As the product owner for AI/ML I set the team direction, implement the execution plan, manage risk, and communicate status.  I am a generalist on the technical side - recent tasks have varied from recommenders to search learning to rank, and from visualizations to NLP.  I ship code to production and do math on paper. 
 
