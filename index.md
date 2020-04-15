@@ -22,6 +22,8 @@ On official evaluations (UCSD CAPE), 96% of students said they would "recommend 
 
 # Fun
 
+I recently made an anti-recommender for Spotify: http://badplaylist.com/.  You can read more about it here: https://github.com/jemmott/badvibes
+
 ### Reading
 
 I keep a list of [books I really liked](https://github.com/jemmott/books), which you might like too.  I am also pretty excited about the material on the [DSC96 reading list](https://sites.google.com/view/dsc96/reading).
