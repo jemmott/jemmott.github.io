@@ -22,7 +22,7 @@ On official evaluations (UCSD CAPE), 96% of students said they would "recommend 
 
 # Fun
 
-I recently made an anti-recommender for Spotify: http://badplaylist.com/.  You can read more about it here: https://github.com/jemmott/badvibes
+I recently made an anti-recommender for Spotify.  You can get your own customized bad-for-you playlist [here](http://badplaylist.com/) and read about it [here](https://github.com/jemmott/badvibes)
 
 ### Reading
 
