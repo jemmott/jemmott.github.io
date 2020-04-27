@@ -2,6 +2,8 @@
 
 To me, data science is about deeply understanding the meaning of your data, analyzing it with honesty and creativity, and communicating results clearly. It is extremely gratifying to use data and math to help so many people make better decisions. 
 
+Im April, 2020 I was on the UC San Diego Data Science Student Society's podcast.  It was super fun!  You can listen to it on [Spotify](https://open.spotify.com/show/7yHiQn4eqjy2EAzRNEmQdf) or read summary on [Medium](https://medium.com/ds3ucsd/launching-our-podcast-conversations-with-colin-jemmott-36c567659e8c). 
+
 I currently have two data science jobs:
 
 ## Senior Data Scientist @ Seismic
