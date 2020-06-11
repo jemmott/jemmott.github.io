@@ -4,6 +4,8 @@ To me, data science is about deeply understanding the meaning of your data, anal
 
 Im April, 2020 I was on the UC San Diego Data Science Student Society's podcast.  It was super fun!  You can listen to it on [Spotify](https://open.spotify.com/show/7yHiQn4eqjy2EAzRNEmQdf) or read summary on [Medium](https://medium.com/ds3ucsd/launching-our-podcast-conversations-with-colin-jemmott-36c567659e8c). 
 
+In June, 2020 I did my final lecture for UC San Diego's intro data science class, DSC10.  For that class I zoomed way out, and tried to answer questions my students had about data science in general.  You can watch that lecture [here](https://www.youtube.com/watch?v=xisjz2AqwCU).
+
 I currently have two data science jobs:
 
 ## Senior Data Scientist @ Seismic
