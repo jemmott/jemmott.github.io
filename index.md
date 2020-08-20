@@ -18,9 +18,9 @@ You can read more stuff I wrote about Seismic: [what the Seismic data science te
 
 ## Lecturer @ UC San Diego
 
-I [teach at UC San Diego](https://ucsdnews.ucsd.edu/pressrelease/data_science_freshman_makes_his_first_cloud) as part of the Halıcıoğlu Data Science Institute. I designed a class that is super fun: [DSC 96: Perspectives in Data Science](https://sites.google.com/view/dsc96), which I like describing as "big picture plus stuff that fell between the cracks in other classes".  
+I [teach at UC San Diego](https://ucsdnews.ucsd.edu/pressrelease/data_science_freshman_makes_his_first_cloud) as part of the Halıcıoğlu Data Science Institute. I designed a class that is super fun: [DSC 96: Perspectives in Data Science](https://sites.google.com/view/dsc96), which I like describing as "intro-level big picture plus stuff that fell between the cracks in other classes".  
 
-I have also taught a large intro lecture class: [DSC 10: Principles of Data Science](https://sites.google.com/view/dsc10) and designed and taught a seminar on technical presentations and interview skills [DSC 90](https://www.dsc90.com/).
+I have also taught a large intro lecture class: [DSC 10: Principles of Data Science](https://sites.google.com/view/dsc10), designed and taught a seminar on technical presentations and interview skills [DSC 90](https://www.dsc90.com/), and Fall 2020 am running the senior capstone project track on recommender systems.
 
 On official evaluations (UCSD CAPE), 96% of students said they would "recommend the instructor" in my classes.
 
