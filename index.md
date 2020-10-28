@@ -10,23 +10,23 @@ I currently have two data science jobs:
 
 ## Senior Data Scientist @ Seismic
 
-I am a Senior Data Scientist at [Seismic](https://seismic.com/), where I manage the AI/ML team. 
+I am a Senior Data Scientist at [Seismic](https://seismic.com/), where I currently build recommender systems. 
 
-As the product owner for AI/ML I set the team direction, implement the execution plan, manage risk, and communicate status.  I am a generalist on the technical side - recent tasks have varied from recommenders to search learning to rank, and from visualizations to NLP.  I ship code to production and do math on paper. 
+As Seismic's first data scientist I have had done a lot of different stuff - from search learning to rank to deep learning, and from interactive visualizations to NLP.  I ship code to production and do math on paper. 
 
 You can read more stuff I wrote about Seismic: [what the Seismic data science team does](https://medium.com/seismic-data-science/data-science-at-seismic-b4469c7cb6b0) and [Seismic's Guiding Principles for Data Science](https://medium.com/seismic-data-science/seismics-guiding-principles-for-data-science-957ef54e064e).
 
 ## Lecturer @ UC San Diego
 
-I [teach at UC San Diego](https://ucsdnews.ucsd.edu/pressrelease/data_science_freshman_makes_his_first_cloud) as part of the Halıcıoğlu Data Science Institute. I designed a class that is super fun: [DSC 96: Perspectives in Data Science](https://sites.google.com/view/dsc96), which I like describing as "intro-level big picture plus stuff that fell between the cracks in other classes".  
+I [teach at UC San Diego](https://ucsdnews.ucsd.edu/pressrelease/data_science_freshman_makes_his_first_cloud) as part of the Halıcıoğlu Data Science Institute. I designed a class that is super fun: [DSC 96: Perspectives in Data Science](https://www.dsc96.com/home), which I like describing as "intro-level big picture plus stuff that fell between the cracks in other classes".  You can watch the lectures from Fall 2020 [here](https://www.youtube.com/playlist?list=PL2xVoaOLNqb0VG4GrqRw98GkLk4R_Kcx3).
 
-I have also taught a large intro lecture class: [DSC 10: Principles of Data Science](https://sites.google.com/view/dsc10), designed and taught a seminar on technical presentations and interview skills [DSC 90](https://www.dsc90.com/), and Fall 2020 am running the senior capstone project track on recommender systems.
+I have also taught a large intro lecture class: [DSC 10: Principles of Data Science](https://sites.google.com/view/dsc10), designed and taught a seminar on technical presentations and interview skills [DSC 90](https://www.dsc90.com/), and Fall 2020 am running the senior capstone project track on recommender systems ([DSC180A](https://github.com/jemmott/dsc180a06-fa20)).
 
 On official evaluations (UCSD CAPE), 96% of students said they would "recommend the instructor" in my classes.
 
 # Fun
 
-I recently made an anti-recommender for Spotify.  You can get your own customized bad-for-you playlist [here](http://badplaylist.com/) and read about it [here](https://github.com/jemmott/badvibes)
+A while ago, for a one-day hackathon, I made an anti-recommender for Spotify.  You can get your own customized bad-for-you playlist [here](http://badplaylist.com/) and read about it [here](https://github.com/jemmott/badvibes)
 
 ### Reading
 
