@@ -22,7 +22,7 @@ I [teach at UC San Diego](https://ucsdnews.ucsd.edu/pressrelease/data_science_fr
 
 I have also taught a large intro lecture class: [DSC 10: Principles of Data Science](https://sites.google.com/view/dsc10), designed and taught a seminar on technical presentations and interview skills [DSC 90](https://www.dsc90.com/), and Fall 2020 am running the senior capstone project track on recommender systems ([DSC180A](https://github.com/jemmott/dsc180a06-fa20)).
 
-On official evaluations (UCSD CAPE), 96% of students said they would "recommend the instructor" in my classes.
+On official evaluations (UCSD CAPE), 97% of students said they would "recommend the instructor" in my classes.
 
 # Fun
 
@@ -36,7 +36,7 @@ I keep a list of [books I really liked](https://github.com/jemmott/books), which
 
 I am really good at doing stuff that I don't know how to do. Yet.
 
-For example, with no real experience, my friends and I built [a small cabin on Palomar Mountain](https://www.normalhouse.com/palomar).
+For example, with no real experience, my friends and I built [a small cabin on Palomar Mountain](https://www.deldiosglasshouse.com/palomar).
 
 Sometimes this approach to learning means I end up bleeding on things.  When that happens I [document it on Twitter](https://twitter.com/WhyIAmBleeding).
 
@@ -48,9 +48,9 @@ I live in the neighborhood of Del Dios, on the shores of Lake Hodges, in a house
 
 I was very active with the [San Diego Collaborative Arts Project](http://www.sdcap.org/) for several years, culminating in being the president of the board of directors.  [Here](http://sdvoyager.com/interview/meet-colin-jemmott-san-diego-collaborative-arts-project-mission-valley/) is an interview that I did that gives some details.
 
-I used to do some "art" with the [Dada Scientists](http://unfalsifiable.info/).
+I used to do some "art" with a group called the Dada Scientists. You can see some examples [here](https://sdcap.org/youtopia-2016-afterburn-report/dada-scientists/) and [here](https://sdcap.org/youtopia-2017-afterburn-report/2017-dada-scientists/).
 
-I helped found a small intentional community called "[The Normal House](https://www.normalhouse.com/)" and lived there for six years.  It was pretty great!
+I helped found a small intentional community called "[The Normal House](https://sdcap.org/our-house-your-canvas/)" and lived there for six years.  It was pretty great!
 
 In addition to [my dissertation](http://www.lulu.com/shop/colin-jemmott/model-based-recursive-bayesian-state-estimation-for-single-hydrophone-passive-sonar-localization/ebook/product-17362495.html?ppn=1), I also wrote [a bunch of beer reviews](http://www.lulu.com/shop/colin-jemmott/501-beers/paperback/product-15326831.html).
 
