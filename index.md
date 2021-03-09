@@ -6,8 +6,6 @@ Im April, 2020 I was on the UC San Diego Data Science Student Society's podcast.
 
 In June, 2020 I did my final lecture for UC San Diego's intro data science class, DSC10.  For that class I zoomed way out, and tried to answer questions my students had about data science in general.  You can watch that lecture [here](https://www.youtube.com/watch?v=xisjz2AqwCU).
 
-I currently have two data science jobs:
-
 ## Senior Data Scientist @ Seismic
 
 I am a Senior Data Scientist at [Seismic](https://seismic.com/), where I currently build recommender systems. 
@@ -18,7 +16,7 @@ You can read more stuff I wrote about Seismic: [what the Seismic data science te
 
 ## Lecturer @ UC San Diego
 
-I [teach at UC San Diego](https://ucsdnews.ucsd.edu/pressrelease/data_science_freshman_makes_his_first_cloud) as part of the Halıcıoğlu Data Science Institute. I designed a class that is super fun: [DSC 96: Perspectives in Data Science](https://www.dsc96.com/home), which I like describing as "intro-level big picture plus stuff that fell between the cracks in other classes".  You can watch the lectures from Fall 2020 [here](https://www.youtube.com/playlist?list=PL2xVoaOLNqb0VG4GrqRw98GkLk4R_Kcx3).
+From Fall 2018 through March 2021 I [taught at UC San Diego](https://ucsdnews.ucsd.edu/pressrelease/data_science_freshman_makes_his_first_cloud) as part of the undergraduate data science program in the Halıcıoğlu Data Science Institute. I designed a class that is super fun: [DSC 96: Perspectives in Data Science](https://www.dsc96.com/home), which I like describing as "intro-level big picture plus stuff that fell between the cracks in other classes".  You can watch the lectures from Fall 2020 [here](https://www.youtube.com/playlist?list=PL2xVoaOLNqb0VG4GrqRw98GkLk4R_Kcx3).
 
 I have also taught a large intro lecture class: [DSC 10: Principles of Data Science](https://sites.google.com/view/dsc10), designed and taught a seminar on technical presentations and interview skills [DSC 90](https://www.dsc90.com/), and Fall 2020 am running the senior capstone project track on recommender systems ([DSC180A](https://github.com/jemmott/dsc180a06-fa20)).
 
