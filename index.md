@@ -12,7 +12,7 @@ Coming soon!
 
 # Previous Work
 
-### Senior Data Scientist @ Seismic
+## Senior Data Scientist @ Seismic
 
 Until July 2021 I was a Senior Data Scientist at [Seismic](https://seismic.com/), where I built recommender systems. 
 
@@ -20,7 +20,7 @@ As Seismic's first data scientist I did a lot of different stuff - from search l
 
 You can read more stuff I wrote about Seismic: [what the Seismic data science team does](https://medium.com/seismic-data-science/data-science-at-seismic-b4469c7cb6b0) and [Seismic's Guiding Principles for Data Science](https://medium.com/seismic-data-science/seismics-guiding-principles-for-data-science-957ef54e064e).
 
-### Lecturer @ UC San Diego
+## Lecturer @ UC San Diego
 
 From Fall 2018 through March 2021 I [taught at UC San Diego](https://ucsdnews.ucsd.edu/pressrelease/data_science_freshman_makes_his_first_cloud) as part of the undergraduate data science program in the Halıcıoğlu Data Science Institute. I designed a class that is super fun: [DSC 96: Perspectives in Data Science](https://www.dsc96.com/home), which I like describing as "intro-level big picture plus stuff that fell between the cracks in other classes".  You can watch the lectures from Fall 2020 [here](https://www.youtube.com/playlist?list=PL2xVoaOLNqb0VG4GrqRw98GkLk4R_Kcx3).
 
