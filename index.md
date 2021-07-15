@@ -6,15 +6,21 @@ Im April, 2020 I was on the UC San Diego Data Science Student Society's podcast.
 
 In June, 2020 I did my final lecture for UC San Diego's intro data science class, DSC10.  For that class I zoomed way out, and tried to answer questions my students had about data science in general.  You can watch that lecture [here](https://www.youtube.com/watch?v=xisjz2AqwCU).
 
-## Senior Data Scientist @ Seismic
+## Data Scientist @ Stitch Fix
 
-I am a Senior Data Scientist at [Seismic](https://seismic.com/), where I currently build recommender systems. 
+Coming soon!
 
-As Seismic's first data scientist I have had done a lot of different stuff - from search learning to rank to deep learning, and from interactive visualizations to NLP.  I ship code to production and do math on paper. 
+# Previous Work
+
+### Senior Data Scientist @ Seismic
+
+Until July 2021 I was a Senior Data Scientist at [Seismic](https://seismic.com/), where I built recommender systems. 
+
+As Seismic's first data scientist I did a lot of different stuff - from search learning to rank to deep learning, and from interactive visualizations to NLP.  I shiped code to production and did math on paper. 
 
 You can read more stuff I wrote about Seismic: [what the Seismic data science team does](https://medium.com/seismic-data-science/data-science-at-seismic-b4469c7cb6b0) and [Seismic's Guiding Principles for Data Science](https://medium.com/seismic-data-science/seismics-guiding-principles-for-data-science-957ef54e064e).
 
-## Lecturer @ UC San Diego
+### Lecturer @ UC San Diego
 
 From Fall 2018 through March 2021 I [taught at UC San Diego](https://ucsdnews.ucsd.edu/pressrelease/data_science_freshman_makes_his_first_cloud) as part of the undergraduate data science program in the Halıcıoğlu Data Science Institute. I designed a class that is super fun: [DSC 96: Perspectives in Data Science](https://www.dsc96.com/home), which I like describing as "intro-level big picture plus stuff that fell between the cracks in other classes".  You can watch the lectures from Fall 2020 [here](https://www.youtube.com/playlist?list=PL2xVoaOLNqb0VG4GrqRw98GkLk4R_Kcx3).
 
@@ -60,4 +66,4 @@ I was Harvey Mudd's 2004 graduation speaker, and [recently found the video](http
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/cjemmott/) and [Twitter](https://twitter.com/colin_jemmott).
 
-My username is usually cjemmott, so you can find me there at seismic.com, gmail.com, ucsd.edu, etc.
+cjemmott@gmail.com is the best place to reach me.
