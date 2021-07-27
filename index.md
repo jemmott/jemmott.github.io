@@ -8,7 +8,7 @@ In June, 2020 I did my final lecture for UC San Diego's intro data science class
 
 ## Data Scientist @ Stitch Fix
 
-I am currently a data scientist at Stitch Fix, on the Shop Recommendations team.  [This site](https://algorithms-tour.stitchfix.com/) has a good overview of what the algorithms team does.
+I am currently a data scientist at Stitch Fix, on the Shop Discovery team.  [This site](https://algorithms-tour.stitchfix.com/) has a good overview of what the algorithms team does.
 
 # Previous Work
 
