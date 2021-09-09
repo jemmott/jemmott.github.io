@@ -64,6 +64,4 @@ I was Harvey Mudd's 2004 graduation speaker, and [recently found the video](http
 
 # Contact
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/cjemmott/) and [Twitter](https://twitter.com/colin_jemmott).
-
 cjemmott@gmail.com is the best place to reach me.
